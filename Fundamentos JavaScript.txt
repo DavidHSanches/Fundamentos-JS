@@ -1,0 +1,15 @@
+Por que os fundamentos são importantes
+R: Aprendendo os fundamentos, vamos ter a base, para que, no futuro, podemos resolver problemas e não sera necessario voltar atras para aprender novamente.
+
+Onde começamos e até onde vamos?
+ * Variavies - As variáveis existem vários tipos de linguagem de programação diferentes e elas são extremamente importantes, porque são nelas que vamos armazenar os nossos dados.
+
+ No JavaScript tem algumas peculiaridades em relação às variáveis, que vamos ver durante o curso.
+
+ * TIpos de dados -  ele tem que receber dados corretos. Por exemplo, números para fazer contas, textos para exibir um nome, guardar um nome num banco de dados, por exemplo.
+
+ * Node Js - Por ele, nós também conseguimos utilizar a linguagem do lado do nosso servidor, no backend, e vamos utilizar o NodeJS para fazer essa execução.
+
+ * operadores  - Os operadores são importantes, porque sem eles não conseguimos fazer, dizer para o programa o que ele tem que fazer. Então, parte do processamento depende de operadores.
+
+Por exemplo, dois dados são iguais? Eu tenho todas as informações ou isso ou aquilo somar números, juntar palavras, dizer se um dado é igual ao outro, por exemplo, a senha inputada é igual à senha que está no banco?
